@@ -1,4 +1,4 @@
-o/bin:$HOME/go/bin" >> $HOME/.bash_profile
+OME/go/bin" >> $HOME/.bash_profile
 source $HOME/.bash_profile
 
 ---------------------------------------------------
