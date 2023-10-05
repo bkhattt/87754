@@ -1,4 +1,4 @@
-e https://github.com/celestiaorg/celestia-app.git
+b.com/celestiaorg/celestia-app.git
 cd celestia-app
 git checkout v0.6.0
 make install
