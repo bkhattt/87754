@@ -1,5 +1,4 @@
----------------
-git clone https://github.com/celestiaorg/networks
+-ne https://github.com/celestiaorg/networks
 
 -------------------------------
 cd $HOME
