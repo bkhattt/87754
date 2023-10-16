@@ -1,5 +1,4 @@
-
-rm -rf networks
+tworks
 git clone https://github.com/celestiaorg/networks.git
 
 --------------------------
