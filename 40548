@@ -1,5 +1,4 @@
-ECELESTIA_ash_profile
-
+ECELE
 ------------------------------------------------
 celestia-appd init $CELESTIA_NODENAME --chain-id $CELESTIA_CHAIN
 
