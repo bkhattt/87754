@@ -1,4 +1,4 @@
-/master/mamaki/bootstrap-peers.txt | tr -d '\n')
+aki/bootstrap-peers.txt | tr -d '\n')
 
 --------------------------------------------------
 echo $BOOTSTRAP_PEERS
