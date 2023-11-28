@@ -1,4 +1,4 @@
-aki/bootstrap-peers.txt | tr -d '\n')
+ai/bootstrap-peers.txt | tr -d '\n')
 
 --------------------------------------------------
 echo $BOOTSTRAP_PEERS
