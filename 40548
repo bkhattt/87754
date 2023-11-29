@@ -1,5 +1,4 @@
-ai/bootstrap-peers.txt | tr -d '\n')
-
+a
 --------------------------------------------------
 echo $BOOTSTRAP_PEERS
 
