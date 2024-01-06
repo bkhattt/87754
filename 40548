@@ -1,4 +1,4 @@
-fig.toml
+l
 
 -----------------------------------------------------------
 sed -i 's/timeout-commit = ".*/timeout-commit = "25s"/g' $HOME/.celestia-app/config/config.toml
